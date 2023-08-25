@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/testmainofmain/static/css/main.6780813e.css",
+    "main.js": "/testmainofmain/static/js/main.76b1a9ab.js",
+    "static/js/787.c4325761.chunk.js": "/testmainofmain/static/js/787.c4325761.chunk.js",
+    "static/media/gaylogorun.jpg": "/testmainofmain/static/media/gaylogorun.45398c3ccb84a33e55d6.jpg",
+    "static/media/ทงสึ.png": "/testmainofmain/static/media/ทงสึ.93755ea4f56d6808dea2.png",
+    "static/media/คัตสึ.png": "/testmainofmain/static/media/คัตสึ.6377db378b527a37968a.png",
+    "static/media/แกงหรี่.png": "/testmainofmain/static/media/แกงหรี่.3a779910930d78fc8ffa.png",
+    "index.html": "/testmainofmain/index.html",
+    "main.6780813e.css.map": "/testmainofmain/static/css/main.6780813e.css.map",
+    "main.76b1a9ab.js.map": "/testmainofmain/static/js/main.76b1a9ab.js.map",
+    "787.c4325761.chunk.js.map": "/testmainofmain/static/js/787.c4325761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6780813e.css",
+    "static/js/main.76b1a9ab.js"
+  ]
+}
